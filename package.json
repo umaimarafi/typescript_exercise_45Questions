@@ -1,0 +1,18 @@
+{
+  "name": "umaima-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/prompt-sync": "^4.2.0",
+    "append-transform": "^2.0.0",
+    "inquirer": "^9.2.10",
+    "title-case-converter": "^2.0.0"
+  }
+}
